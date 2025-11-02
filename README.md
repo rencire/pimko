@@ -1,4 +1,4 @@
-# PKMS
+# Pimko
 
 A personal knowledge management system designed for privacy, portability, and flexibility.
 
@@ -16,16 +16,15 @@ A personal knowledge management system designed for privacy, portability, and fl
 
 **Interoperability** - Connect effortlessly with external tools and workflows.
 
+
+
 ## Status
 
 Early development. Contributions welcome.
 
 
-## Features
-### Note taking
-- [] Basic note taking
-- [] "Rabbit hole" mini map
+## Roadmap
 
+Our high-level plan is organized into several key Product Areas. For a detailed look at our upcoming epics and features, please see our main roadmap document.
 
-### Chat UX
-- []
+**[View the Full Project Roadmap](ROADMAP.md)**
